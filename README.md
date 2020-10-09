@@ -7,5 +7,5 @@ tutorial 1 : write
 tuto 2 : read & write
 tuto 2 : read & write2
 
-tuto2 : line 10 변경
-tuto2 : add lien
+tuto1 : line 10 변경
+tuto1 : add line
